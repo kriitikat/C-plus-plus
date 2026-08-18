@@ -9,16 +9,16 @@ private:
 public:
     string getname() {
         cout << "Enter name of student: ";
-        cin >> this->name;
-        return this->name;
+        cin >> name;
+        return name;
     }
     void setname(string n) {
-        this->name = n;
-        cout << "The name of the student is: " << this->name << endl;
+        name = n;
+        cout << "The name of the student is: " << name << endl;
     }
     void issuebook(long id) {
-        this->books[this->counter] = id;
-        this->counter++;
+        books[counter] = id;
+        counter++;
     }
     void getissuebook() {
         cout << "Borrowed Book IDs are:" << endl;
