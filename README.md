@@ -10,8 +10,8 @@ This repository contains C++ programs written during my second semester as part 
 - **Abstraction** – abstract classes and interfaces
 - **Real-world Simulation** – e.g. `BankManagement.cpp`, `account.cpp`
 
-## Tools Used
-- Language: C++
-- Compiler: g++ / MinGW
-- IDE: Visual Studio Code
+## Tools Used 
+- Language:C++
+- Compiler:g++ / MinGW
+- IDE:Visual Studio Code
 
